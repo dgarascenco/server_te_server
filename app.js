@@ -17,7 +17,7 @@ const callback = ( res ) => {
 
         if (data.cod == '200'){
             console.log("Yor choice is " + data.name)
-            console.log(`Temperature is ${data.main.temp} ℃  (from ${data.main.temp_min}℃   to ${data.main.temp_max}℃  )` )
+            console.log(`Temperature is ${data.main.temp} ℃  (from ${data.main.temp_min} ℃   to ${data.main.temp_max} ℃  )` )
             console.log("Speed of wind is " + data.wind.speed)
         }
         else 
