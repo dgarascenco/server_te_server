@@ -1,0 +1,5 @@
+{
+    "KEY" : "5730516bbaccab8ddcc03946b72ff7bb",
+    "HOST": "api.openweathermap.org",
+    "PATH": "/data/2.5/weather/"
+}
